@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/domino-counter/static/css/main.cd357159.css",
-    "main.js": "/domino-counter/static/js/main.2b084cd7.js",
+    "main.js": "/domino-counter/static/js/main.e3472dec.js",
     "static/js/787.6df3d55e.chunk.js": "/domino-counter/static/js/787.6df3d55e.chunk.js",
     "index.html": "/domino-counter/index.html",
     "main.cd357159.css.map": "/domino-counter/static/css/main.cd357159.css.map",
-    "main.2b084cd7.js.map": "/domino-counter/static/js/main.2b084cd7.js.map",
+    "main.e3472dec.js.map": "/domino-counter/static/js/main.e3472dec.js.map",
     "787.6df3d55e.chunk.js.map": "/domino-counter/static/js/787.6df3d55e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd357159.css",
-    "static/js/main.2b084cd7.js"
+    "static/js/main.e3472dec.js"
   ]
 }
